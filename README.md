@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)]
+![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 <h1 align="center">Hi 👋, I'm Komal Prajapat</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_Et64zYDMrKRhvzCnsFsYVY0zGgrm1qpyWYyddRq4KqCWOwniG5YkyCK0rYbX1iWoZc&usqp=CAU"/>
